@@ -1,0 +1,11 @@
+D:\Programing\CS\bazaSQL\Bazy_graphical\Bazy_graphical\bin\Debug\Database1.mdf
+D:\Programing\CS\bazaSQL\Bazy_graphical\Bazy_graphical\bin\Debug\Database1_log.ldf
+D:\Programing\CS\bazaSQL\Bazy_graphical\Bazy_graphical\bin\Debug\Bazy_graphical.exe.config
+D:\Programing\CS\bazaSQL\Bazy_graphical\Bazy_graphical\bin\Debug\Bazy_graphical.exe
+D:\Programing\CS\bazaSQL\Bazy_graphical\Bazy_graphical\bin\Debug\Bazy_graphical.pdb
+D:\Programing\CS\bazaSQL\Bazy_graphical\Bazy_graphical\obj\Debug\Bazy_graphical.csprojAssemblyReference.cache
+D:\Programing\CS\bazaSQL\Bazy_graphical\Bazy_graphical\obj\Debug\Bazy_graphical.Form1.resources
+D:\Programing\CS\bazaSQL\Bazy_graphical\Bazy_graphical\obj\Debug\Bazy_graphical.Properties.Resources.resources
+D:\Programing\CS\bazaSQL\Bazy_graphical\Bazy_graphical\obj\Debug\Bazy_graphical.csproj.GenerateResource.cache
+D:\Programing\CS\bazaSQL\Bazy_graphical\Bazy_graphical\obj\Debug\Bazy_graphical.exe
+D:\Programing\CS\bazaSQL\Bazy_graphical\Bazy_graphical\obj\Debug\Bazy_graphical.pdb

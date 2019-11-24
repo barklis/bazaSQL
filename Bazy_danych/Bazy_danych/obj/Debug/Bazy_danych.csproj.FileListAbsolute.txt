@@ -1,0 +1,16 @@
+D:\Programing\C#\bazaSQL\Bazy_danych\Bazy_danych\bin\Debug\Database1.mdf
+D:\Programing\C#\bazaSQL\Bazy_danych\Bazy_danych\bin\Debug\Database1_log.ldf
+D:\Programing\C#\bazaSQL\Bazy_danych\Bazy_danych\bin\Debug\Bazy_danych.exe.config
+D:\Programing\C#\bazaSQL\Bazy_danych\Bazy_danych\bin\Debug\Bazy_danych.exe
+D:\Programing\C#\bazaSQL\Bazy_danych\Bazy_danych\bin\Debug\Bazy_danych.pdb
+D:\Programing\C#\bazaSQL\Bazy_danych\Bazy_danych\obj\Debug\Bazy_danych.csprojAssemblyReference.cache
+D:\Programing\C#\bazaSQL\Bazy_danych\Bazy_danych\obj\Debug\Bazy_danych.exe
+D:\Programing\C#\bazaSQL\Bazy_danych\Bazy_danych\obj\Debug\Bazy_danych.pdb
+D:\Programing\CS\bazaSQL\Bazy_danych\Bazy_danych\bin\Debug\Database1.mdf
+D:\Programing\CS\bazaSQL\Bazy_danych\Bazy_danych\bin\Debug\Database1_log.ldf
+D:\Programing\CS\bazaSQL\Bazy_danych\Bazy_danych\bin\Debug\Bazy_danych.exe.config
+D:\Programing\CS\bazaSQL\Bazy_danych\Bazy_danych\bin\Debug\Bazy_danych.exe
+D:\Programing\CS\bazaSQL\Bazy_danych\Bazy_danych\bin\Debug\Bazy_danych.pdb
+D:\Programing\CS\bazaSQL\Bazy_danych\Bazy_danych\obj\Debug\Bazy_danych.csprojAssemblyReference.cache
+D:\Programing\CS\bazaSQL\Bazy_danych\Bazy_danych\obj\Debug\Bazy_danych.exe
+D:\Programing\CS\bazaSQL\Bazy_danych\Bazy_danych\obj\Debug\Bazy_danych.pdb
